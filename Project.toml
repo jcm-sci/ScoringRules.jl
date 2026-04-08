@@ -1,5 +1,5 @@
-name = "PACKAGE_NAME"
-uuid = "00000000-0000-0000-0000-000000000000"
+name = "ScoringRules"
+uuid = "4513502d-b6e3-4a45-a349-870a0c92fe5c"
 authors = ["Joshua C. Macdonald <jmacdo16@jh.edu>"]
 version = "0.1.0"
 

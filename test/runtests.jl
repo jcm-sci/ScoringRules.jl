@@ -1,6 +1,6 @@
-using PACKAGE_NAME
+using ScoringRules
 using Test
 
-@testset "PACKAGE_NAME.jl" begin
+@testset "ScoringRules.jl" begin
     @test true  # smoke test
 end
