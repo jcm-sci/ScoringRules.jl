@@ -1,19 +1,22 @@
 # ScoringRules.jl
 
-Proper scoring rules for probabilistic forecast evaluation in Julia.
+> [!IMPORTANT]
+> **Inactive design scaffold.** This repository does not currently provide a
+> usable Julia package or public API. Its source module and tests are
+> placeholders, and the package is not registered in Julia's General registry.
 
-Provides CRPS, energy score, weighted interval score, Brier score, and other
-metrics for evaluating probabilistic predictions. Inspired by the Python
-[scoringrules](https://github.com/frazane/scoringrules) library and the R
+## Alternatives
+
+For working implementations of proper scoring rules, see the Python
+[scoringrules](https://github.com/frazane/scoringrules) library or the R
 [scoringRules](https://cran.r-project.org/web/packages/scoringRules/index.html)
 package.
 
-## Installation
+## Repository purpose
 
-```julia
-using Pkg
-Pkg.add("ScoringRules")
-```
+This repository is retained as a possible starting point for future Julia
+work. There is no active development timeline. Do not depend on it for
+research or production work.
 
 ## Development
 
